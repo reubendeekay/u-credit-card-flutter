@@ -46,7 +46,7 @@ class CreditCardValidityView extends StatelessWidget {
                   'BRANCH',
                   style: TextStyle(
                     color: Color.fromARGB(255, 200, 200, 200),
-                    fontSize: 5,
+                    fontSize: 10,
                     height: 1.2,
                   ),
                   textAlign: TextAlign.center,
