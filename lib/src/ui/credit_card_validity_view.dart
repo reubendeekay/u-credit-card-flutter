@@ -43,7 +43,7 @@ class CreditCardValidityView extends StatelessWidget {
               const SizedBox(
                 width: 24,
                 child: Text(
-                  'VALID FROM',
+                  'BRANCH',
                   style: TextStyle(
                     color: Color.fromARGB(255, 200, 200, 200),
                     fontSize: 5,
