@@ -270,7 +270,7 @@ class CreditCardUi extends StatelessWidget {
 
     final frontSide = SizedBox(
       key: const ValueKey('FrontSide'),
-      width: 300,
+      width: double.infinity,
       child: AspectRatio(
         aspectRatio: 1.5789,
         child: DecoratedBox(
