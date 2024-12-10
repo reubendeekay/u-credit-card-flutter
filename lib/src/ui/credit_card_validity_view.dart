@@ -41,7 +41,7 @@ class CreditCardValidityView extends StatelessWidget {
           child: Row(
             children: [
               const SizedBox(
-                width: 100,
+                width: 60,
                 child: Text(
                   'BRANCH',
                   style: TextStyle(
